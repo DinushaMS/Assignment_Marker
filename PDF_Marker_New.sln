@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_Marker_New", "PDF_Marker_New\PDF_Marker_New.csproj", "{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Assignment-Grader-Setup", "Assignment-Grader-Setup\Assignment-Grader-Setup.vdproj", "{20A3C142-B86A-4C61-9097-D4CE733A141B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Debug|x64.Build.0 = Debug|Any CPU
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Debug|x86.ActiveCfg = Debug|x86
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Debug|x86.Build.0 = Debug|x86
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Release|x64.ActiveCfg = Release|x64
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Release|x64.Build.0 = Release|x64
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Release|x86.ActiveCfg = Release|x64
+		{8239756C-EAEB-4A0D-9872-EBDBD7DB936D}.Release|x86.Build.0 = Release|x64
+		{20A3C142-B86A-4C61-9097-D4CE733A141B}.Debug|Any CPU.ActiveCfg = Debug
+		{20A3C142-B86A-4C61-9097-D4CE733A141B}.Debug|x64.ActiveCfg = Debug
+		{20A3C142-B86A-4C61-9097-D4CE733A141B}.Debug|x86.ActiveCfg = Debug
+		{20A3C142-B86A-4C61-9097-D4CE733A141B}.Release|Any CPU.ActiveCfg = Release
+		{20A3C142-B86A-4C61-9097-D4CE733A141B}.Release|x64.ActiveCfg = Release
+		{20A3C142-B86A-4C61-9097-D4CE733A141B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7BEEBE-D14A-454A-93C5-322B119A74C4}
+	EndGlobalSection
+EndGlobal
